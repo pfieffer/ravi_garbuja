@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 You can use the [editor on GitHub](https://github.com/pfieffer/ravi_garbuja/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -23,7 +25,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
